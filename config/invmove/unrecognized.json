@@ -1,0 +1,19 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "dev.isxander.yacl3.gui.YACLScreen": true,
+    "net.minecraft.class_433": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "net.minecraft.class_5375": true,
+    "net.minecraft.class_407": true,
+    "net.minecraft.class_4895": true,
+    "net.minecraft.class_5522": true
+  },
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "net.minecraft.class_4895": true,
+    "net.minecraft.class_5522": true
+  }
+}
